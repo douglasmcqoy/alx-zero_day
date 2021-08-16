@@ -1,1 +1,1 @@
-**Alx projects on git by Douglas Quaye**
+**Alx projects on github by Douglas Quaye**
